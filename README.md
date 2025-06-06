@@ -1,2 +1,2 @@
-# pygame-shooting-game
+# pygameシューティングゲーム
 A 2D shooting game built with python &amp; pygame
